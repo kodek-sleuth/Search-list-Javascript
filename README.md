@@ -4,10 +4,10 @@ Project Title
 One Paragraph of project description goes here
 
 # Getting Started
--Install Javascript, html and css support on your local machine.
--Install and Launch Vscode and also download necessary extension.
--Clone git repository.
--Open folder In Vscode and Run html Code
+- Install Javascript, html and css support on your local machine.
+- Install and Launch Vscode and also download necessary extension.
+- Clone git repository.
+- Open folder In Vscode and Run html Code
 
 # Prerequisites
 ```bash
