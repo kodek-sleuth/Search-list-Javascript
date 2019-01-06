@@ -1,7 +1,6 @@
 # Search-list-Javascript
 A search tool made in vanilla javascript
-Project Title
-One Paragraph of project description goes here
+
 
 # Getting Started
 - Install Javascript, html and css support on your local machine.
